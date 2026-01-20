@@ -1,0 +1,8 @@
+Business Insights:
+
+1. Revenue is highly concentrated among a small number of products. The top-performing tracks account for a major share of total sales, confirming that business performance is driven by a limited set of high-performing items.
+
+2. Customer-order analysis shows that 100% of customers in the dataset have made at least one purchase, indicating strong customer activation and conversion.
+
+3. Genre-wise revenue analysis shows that Rock alone contributes 35.50% of total revenue, followed by Latin (16.41%), Metal (11.22%), and Alternative & Punk (10.37%). Together, these four genres generate approximately 73.5% of overall revenue, highlighting clear performance differences across music categories.
+
