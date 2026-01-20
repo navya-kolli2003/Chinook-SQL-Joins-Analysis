@@ -1,0 +1,8 @@
+Analysis on Chinook database:
+
+
+1. Sales analysis shows that a limited number of tracks generate the highest revenue, indicating that business performance is driven by a small set of top-selling products.
+
+2. Customer-order analysis shows that every customer in the dataset has made at least one purchase, indicating strong customer activation and conversion.
+
+3. Genre-wise revenue distribution highlights the most profitable music categories, helping the business focus marketing and inventory efforts on high-performing genres.
